@@ -572,3 +572,25 @@
 [03:53:09] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-18, -2] in dimension 0 (overworld) while populating chunk [-18, 0], causing cascading worldgen lag.
 [03:53:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [03:53:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Creative Mode]
+[03:59:09] [Server thread/WARN] [FML]: Quark loaded a new chunk [-42, 6] in dimension 0 (overworld) while populating chunk [-42, 5], causing cascading worldgen lag.
+[03:59:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:59:09] [Server thread/WARN] [FML]: Quark loaded a new chunk [-42, 16] in dimension 0 (overworld) while populating chunk [-41, 16], causing cascading worldgen lag.
+[03:59:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:59:55] [Server thread/INFO] [FML]: Loading dimension -29 (world) (net.minecraft.server.dedicated.DedicatedServer@7d00d111)
+[03:59:55] [Server thread/INFO] [FML]: Loading dimension -31 (world) (net.minecraft.server.dedicated.DedicatedServer@7d00d111)
+[04:00:36] [Server thread/INFO] [FML]: Loading dimension -30 (world) (net.minecraft.server.dedicated.DedicatedServer@7d00d111)
+[04:00:36] [Server thread/INFO] [FML]: Loading dimension -28 (world) (net.minecraft.server.dedicated.DedicatedServer@7d00d111)
+[04:02:04] [Server thread/INFO] [FML]: Loading dimension 3 (world) (net.minecraft.server.dedicated.DedicatedServer@7d00d111)
+[04:02:04] [Server thread/INFO] [Galacticraft]: Found matching world (3) for name: Space Station 3
+[04:02:05] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player OnTap to dimension 3
+[04:02:05] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for OnTap
+[04:03:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-6, -10] in dimension 0 (overworld) while populating chunk [-6, -9], causing cascading worldgen lag.
+[04:03:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:03:44] [Server thread/INFO] [Galacticraft]: Found matching world (-29) for name: planet.mars
+[04:03:44] [Server thread/INFO] [Galacticraft]: Whitelisting AE2 meteorites worldgen on planets.
+[04:03:45] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player OnTap to dimension -29
+[04:03:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: OnTap has reached the goal [To Mars!]
+[04:03:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for OnTap
+[04:03:45] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for OnTap
+[04:03:46] [Server thread/INFO] [FML]: Unloading dimension 3
+[04:05:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Survival Mode]

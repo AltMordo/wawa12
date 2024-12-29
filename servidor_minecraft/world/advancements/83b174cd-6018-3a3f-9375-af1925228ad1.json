@@ -857,6 +857,12 @@
     },
     "done": true
   },
+  "galacticraftplanets:galacticraft/mars": {
+    "criteria": {
+      "traveled_to_moon": "2024-12-29 04:03:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_the_recipe": "2024-12-29 03:40:14 +0000"
