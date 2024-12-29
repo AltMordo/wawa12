@@ -28327,3 +28327,45 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [04:07:52] [Server thread/DEBUG] [FML]: The world 19d4c571 (world) may have leaked: seen 25 times.
 
 [04:07:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:08:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:08:42] [Server thread/DEBUG] [FML]: The world 19d4c571 (world) may have leaked: seen 30 times.
+
+[04:09:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:09:32] [Server thread/DEBUG] [FML]: The world 19d4c571 (world) may have leaked: seen 35 times.
+
+[04:09:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Creative Mode]
+[04:10:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:10:22] [Server thread/DEBUG] [FML]: The world 19d4c571 (world) may have leaked: seen 40 times.
+
+[04:10:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Survival Mode]
+[04:10:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:11:12] [Server thread/DEBUG] [FML]: The world 19d4c571 (world) may have leaked: seen 45 times.
+
+[04:11:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:12:02] [Server thread/DEBUG] [FML]: The world 19d4c571 (world) may have leaked: seen 50 times.
+
+[04:12:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:12:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set the time to 1000]
+[04:12:52] [Server thread/DEBUG] [FML]: The world 19d4c571 (world) may have leaked: seen 55 times.
+
+[04:13:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:13:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Creative Mode]
+[04:13:42] [Server thread/DEBUG] [FML]: The world 19d4c571 (world) may have leaked: seen 60 times.
+
+[04:13:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:14:32] [Server thread/DEBUG] [FML]: The world 19d4c571 (world) may have leaked: seen 65 times.
+
+[04:14:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:15:22] [Server thread/DEBUG] [FML]: The world 19d4c571 (world) may have leaked: seen 70 times.
+
+[04:15:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:16:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:16:12] [Server thread/DEBUG] [FML]: The world 19d4c571 (world) may have leaked: seen 75 times.
+
+[04:16:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:17:02] [Server thread/DEBUG] [FML]: The world 19d4c571 (world) may have leaked: seen 80 times.
+
+[04:17:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:17:52] [Server thread/DEBUG] [FML]: The world 19d4c571 (world) may have leaked: seen 85 times.
+
+[04:18:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

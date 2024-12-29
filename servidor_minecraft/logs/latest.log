@@ -594,3 +594,7 @@
 [04:03:45] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for OnTap
 [04:03:46] [Server thread/INFO] [FML]: Unloading dimension 3
 [04:05:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Survival Mode]
+[04:09:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Creative Mode]
+[04:10:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Survival Mode]
+[04:12:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set the time to 1000]
+[04:13:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Creative Mode]
