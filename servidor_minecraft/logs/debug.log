@@ -28415,3 +28415,29 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [04:26:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:27:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:28:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:28:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:29:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:29:53] [Server thread/INFO] [Galacticraft]: Found matching world (-31) for name: planet.venus
+[04:29:53] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player OnTap to dimension -31
+[04:29:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: OnTap has reached the goal [To Venus!]
+[04:29:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for OnTap
+[04:29:53] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for OnTap
+[04:29:53] [Server thread/DEBUG] [NotEnoughItems]: Sending ServerSide check to: OnTap
+[04:30:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:30:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Survival Mode]
+[04:31:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:31:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Creative Mode]
+[04:31:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:32:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Survival Mode]
+[04:32:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:32:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Creative Mode]
+[04:33:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Survival Mode]
+[04:33:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:33:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Creative Mode]
+[04:34:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:34:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:35:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:36:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:37:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:37:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:38:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

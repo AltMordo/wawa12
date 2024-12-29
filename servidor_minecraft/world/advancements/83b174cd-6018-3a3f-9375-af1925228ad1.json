@@ -2403,6 +2403,12 @@
     },
     "done": true
   },
+  "galacticraftplanets:galacticraft/venus": {
+    "criteria": {
+      "traveled_to_moon": "2024-12-29 04:29:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_the_recipe": "2024-12-29 03:40:14 +0000"
